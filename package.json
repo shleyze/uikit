@@ -5,8 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "start-storybook --ci -p 3000",
-    "build": "build-storybook -o docs",
-    "deploy-docs": "storybook-to-ghpages"
+    "build": "build-storybook -o docs"
   },
   "repository": {
     "type": "git",
@@ -23,7 +22,6 @@
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "@storybook/react": "^5.2.8",
-    "@storybook/storybook-deployer": "^2.8.1",
     "babel-loader": "^8.0.6"
   },
   "dependencies": {
