@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 
-import { HelloWorld } from "../../index";
+import { HelloWorld } from '../../index'
 
 export default {
-  title: "Components|HelloWorld",
+  title: 'Components|HelloWorld',
   component: HelloWorld,
-  parameters: {}
-};
+  parameters: {},
+}
 
-export const base = () => <HelloWorld />;
+export const base = () => <HelloWorld />
