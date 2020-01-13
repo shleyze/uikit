@@ -1,0 +1,30 @@
+{
+  "name": "uikit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "start-storybook --ci -p 3000 -c config/storybook",
+    "build-storybook": "build-storybook --quiet -c config/storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shleyze/sbermarket-uikit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shleyze/sbermarket-uikit/issues"
+  },
+  "homepage": "https://github.com/shleyze/sbermarket-uikit#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@storybook/react": "^5.2.8",
+    "babel-loader": "^8.0.6"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
