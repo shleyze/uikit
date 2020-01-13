@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "start-storybook --ci -p 3000",
+    "build": "build-storybook -o docs",
     "deploy-docs": "storybook-to-ghpages"
   },
   "repository": {
