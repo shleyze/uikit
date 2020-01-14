@@ -95,6 +95,17 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
+/** @license React v16.12.0
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
+
 /*! axe v3.4.1
  * Copyright (c) 2019 Deque Systems, Inc.
  *
@@ -106,14 +117,3 @@ object-assign
  * distribute or in any file that contains substantial portions of this source
  * code.
  */
-
-/** @license React v16.12.0
- * react-is.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
